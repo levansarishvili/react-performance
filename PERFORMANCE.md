@@ -6,25 +6,25 @@
 
 - **Commit duration**: 1.5s
 - **Render duration**: 33.4ms
-- **Screenshot**: ![screenshot](./src/performance-starter/screenshots/optimize/sort-countries.png)
+- **Screenshot**: ![screenshot](./src/performance-starter/screenshots/optimized/sort-countries.png)
 
 ### Interaction B: Search countries
 
 - **Commit duration**: 1.6s
 - **Render duration**: 16.8ms
-- **Screenshot**: ![screenshot](./src/performance-starter/screenshots/optimize/search-countries.png)
+- **Screenshot**: ![screenshot](./src/performance-starter/screenshots/optimized/search-countries.png)
 
 ### Interaction C: Change year
 
 - **Commit duration**: 3.2s
 - **Render duration**: 30.8ms
-- **Screenshot**: ![screenshot](./src/performance-starter/screenshots/optimize/change-year.png)
+- **Screenshot**: ![screenshot](./src/performance-starter/screenshots/optimized/change-year.png)
 
 ### Interaction D: Toggle column
 
 - **Commit duration**: 1.1s
 - **Render duration**: 13.8ms
-- **Screenshot**: ![screenshot](./src/performance-starter/screenshots/optimize/toggle-column.png)
+- **Screenshot**: ![screenshot](./src/performance-starter/screenshots/optimized/toggle-column.png)
 
 ## Summary of Improvements
 
